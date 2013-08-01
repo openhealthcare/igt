@@ -8,6 +8,7 @@ present: David Miller
 At this meeting, the following documents were approved:
 
 * [Personal information Disclosure guidelines](/guidance/disclosure.html)
+* [Statement of information flow](/statements/information.flow.html)
 
 Those staff present confirmed that they were made aware of the following documents:
 
