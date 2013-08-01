@@ -11,3 +11,4 @@ layout: default
 * Ensure OHC staff & contractors are suitably trained in IG
 * Arrange appropriate IG training for OHC staff
 * Document guidelines concerning sharing of confidential information
+* Document confidentiality audit procedures
