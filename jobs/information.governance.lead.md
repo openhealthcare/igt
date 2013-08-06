@@ -15,3 +15,5 @@ layout: default
 * Review information flows to identify overseas transfers
 * Document procedures to ensure that new or proposed changes to organisational processes or information assets are identified
 * For ongoing development, decide whether a privacy impact assessment is required, consider any impact on information quality, review existing security procedures and identifies any new security procedures that may be required.
+* Compile and maintain an information asset register
+* Lead the management and reporting of information incidents
