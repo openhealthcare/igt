@@ -1,7 +1,7 @@
 ---
 layout: meeting
-date: TODO
-present: David Miller
+date: 13/08/2013
+present: David Miller, Carl Reynolds
 ---
 # OHC IG Meeting - initial
 
