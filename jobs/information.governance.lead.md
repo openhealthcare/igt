@@ -17,3 +17,4 @@ layout: default
 * For ongoing development, decide whether a privacy impact assessment is required, consider any impact on information quality, review existing security procedures and identifies any new security procedures that may be required.
 * Compile and maintain an information asset register
 * Lead the management and reporting of information incidents
+* Define and document requirements for system and user access controls.

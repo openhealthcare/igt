@@ -23,14 +23,14 @@ title: Open Health Care UK - Information Governance Toolkit
 <br />
 
 * [Information Security Assurance](/information.security.assurance)
-* [11-305](/information.security.assurance/11-305/) : Level 0
-* [11-313](/information.security.assurance/11-313/) : Level 0
-* [11-314](/information.security.assurance/11-314/) : Level 0
-* [11-316](/information.security.assurance/11-316/) : Level 1
+* [11-305](/information.security.assurance/11-305/) : Level 1
+* [11-313](/information.security.assurance/11-313/) : Level 1
+* [11-314](/information.security.assurance/11-314/) : Level 1
+* [11-316](/information.security.assurance/11-316/) : Level 2
 * [11-317](/information.security.assurance/11-317/) : Level 2
 * [11-319](/information.security.assurance/11-319/) : Level 0
 * [11-320](/information.security.assurance/11-320/) : Level 1
-* [11-323](/information.security.assurance/11-323/) : Level 0
+* [11-323](/information.security.assurance/11-323/) : Level 1
 
 <br />
 ##Guidance
@@ -40,6 +40,8 @@ title: Open Health Care UK - Information Governance Toolkit
 * [Information Governance Policy](/process/information.governance.policy.html)
 * [Transfer of Personal Information Procedure](/process/transfer.of.sensitive.information.html)
 * [Reporting Unauthorised Access to Physical Premises](/process/reporting.unauthorised.access.html)
+* [Network Security Policy](/process/network.security.policy.html)
+* [Remote Working](/process/remote.working.html)
 
 <br />
 ## Meetings
