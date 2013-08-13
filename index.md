@@ -1,4 +1,4 @@
-b---
+---
 layout: default
 title: Open Health Care UK - Information Governance Toolkit
 ---
