@@ -1,7 +1,10 @@
 ---
 layout: default
+published: true
 ---
+
 # Job Description: Information Governance Lead
+
 
 * Ensure that OHC comply with all NHS Information Governance guidance and best practices.
 * Co-ordinate OHC improvement with respect to Information Governance
