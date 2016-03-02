@@ -5,7 +5,7 @@ title: Open Health Care UK - Information Governance Toolkit
 
 ## Requirements
 
-* [Information Governance Management](/information.governance.management/)
+* **Information Governance Management**
 * [13-114](/information.governance.management/13-114/) : Level 3
 * [13-115](/information.governance.management/13-115/) : Level 3
 * [13-116](/information.governance.management/13-116/) : Level 3
@@ -13,7 +13,7 @@ title: Open Health Care UK - Information Governance Toolkit
 
 <br />
 
-* [Confidentiality and Data Protection Assurance](/confidentiality.data.protection/)
+* **Confidentiality and Data Protection Assurance**
 * [13-202](/confidentiality.data.protection/13-202/) : Level 3
 * [13-206](/confidentiality.data.protection/13-206/) : Level 1
 * [13-209](/confidentiality.data.protection/13-209/) : Level 3
@@ -22,7 +22,7 @@ title: Open Health Care UK - Information Governance Toolkit
 
 <br />
 
-* [Information Security Assurance](/information.security.assurance)
+* **Information Security Assurance**
 * [13-305](/information.security.assurance/13-305/) : Level 1
 * [13-313](/information.security.assurance/13-313/) : Level 1
 * [13-314](/information.security.assurance/13-314/) : Level 1
