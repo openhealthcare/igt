@@ -6,8 +6,8 @@ title: Open Health Care UK - Information Governance Toolkit
 ## Requirements
 
 * [Information Governance Management](/information.governance.management/)
-* [13-114](/information.governance.management/13-114/) : Level 2
-* [13-115](/information.governance.management/13-115/) : Level 2
+* [13-114](/information.governance.management/13-114/) : Level 3
+* [13-115](/information.governance.management/13-115/) : Level 3
 * [13-116](/information.governance.management/13-116/) : Level 1
 * [13-117](/information.governance.management/13-117/) : Level 1
 
