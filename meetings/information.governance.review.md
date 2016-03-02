@@ -31,6 +31,8 @@ At this meeting, the following documents were approved and all staff confirmed t
 In the last six months we have comlpeted a spot check on all relevant members
 of staff to assess compliance with our IG Policy.
 
+This included both existing, and new members of staff.
+
 Our spot check uncovered no breaches of our policy.
 
 (Note, all relevant staff members report directly to the OHC IGL.)
