@@ -24,7 +24,7 @@ At this meeting, the following documents were approved and all staff confirmed t
 * [Reporting Unauthorised Access to Physical Premises](/process/reporting.unauthorised.access.html)
 * [Network Security Policy](/process/network.security.policy.html)
 * [Remote Working](/process/remote.working.html)
-
+* [Data Protection Purposes plan](/process/data.protection.purposes.plan.html)
 
 ### Spot Checks
 
