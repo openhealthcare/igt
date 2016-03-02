@@ -28,7 +28,7 @@ Appropriate basic IG training has been identified for all staff including new st
 
 Basic IG training is provided to all new starters as part of their induction.
 
-[Training records](/information.governance.management/13-117/1/training.records.html)
+[Training records](/statements/training.records.html)
 
 
 ### Level 2.
@@ -39,13 +39,13 @@ All staff members have completed or are in the process of completing IG training
 
 All staff including locum, temporary, volunteer, student and contract staff members have completed or are in the process of completing basic IG training.
 
-[Training records](/information.governance.management/13-117/1/training.records.html)
+[Training records](/statements/training.records.html)
 
 #### b.
 
 The training needs of staff is assessed to ensure that the basic training provided is sufficient and staff in key roles are provided with additional training when required which may be provided through the NHS IG Training Tool or by other means.
 
-[Training records](/information.governance.management/13-117/1/training.records.html)
+[Training records](/statements/training.records.html)
 
 ### Level 3.
 
