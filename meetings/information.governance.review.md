@@ -36,3 +36,10 @@ This included both existing, and new members of staff.
 Our spot check uncovered no breaches of our policy.
 
 (Note, all relevant staff members report directly to the OHC IGL.)
+
+
+### Training
+
+Having reviewed our current training, we feel it is appropriate for our current activities.
+
+All staff with access to personal data have successfully completed our training programme.
