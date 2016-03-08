@@ -2,19 +2,14 @@
 layout: default
 ---
 <h1>Information Security Assurance</h1>
+## 13-313
+## Attainment: Level 3 (Previous 1)
 
-<h2>
-  <a href="/information.security.assurance/11-313">11-313</a>
-</h2>
-<p>
-  Policy and procedures are in place to
-  ensure that Information Communication
-  Technology (ICT) networks operate
-  securely
-</p>
-
+The objective of this requirement is to ensure there is appropriate protection for systems hosted and information communicated over local networks, and for the protection of the supporting infrastructure components (including wireless networks).
 
 <h3>Level 1.</h3>
+
+IAO's or equivalent responsible for ICT networks have reviewed Information Security risks. Responsibility for network security has been assigned to an IAO (or equivalent) who undertakes reviews of information security risks. Mitigating procedures, controls and responsibilities are identified and documented.
 
 <h4>a.</h4>
 <p>
@@ -26,7 +21,7 @@ layout: default
 </a>
 <br />
 <a href="/meetings/initial.html">
-  TODO: Approval of network security policy
+    Approval of network security policy
 </a>
 
 <h4>b.</h4>
@@ -36,18 +31,15 @@ layout: default
   to those networks, and the controls and procedures required to mitigate these risks in
   accordance with the Network Security Policy.
 </p>
-<a href="/information.security.assurance/11-313/1/risk.management.plan">
-  Risk management plan
-</a>
+
+_OHC does not operate any computer networks on which patient confidential data is stored_
 
 <h4>c.</h4>
 <p>
   Network security controls and procedures that mitigate against risks are approved by the
   Senior Information Risk Owner (SIRO) or equivalent senior manager or committee.
 </p>
-<a href="/meetings/initial.html">
-  Endorsement for network security controls
-</a>
+_OHC does not operate any computer networks on which patient confidential data is stored_
 
 <h3>Level 2.</h3>
 
@@ -56,7 +48,8 @@ layout: default
   The identified controls and procedures have been implemented in respect of all ICT
   networks in accordance with policy.
 </p>
-TODO: Document identifying controls applied
+
+_OHC does not operate any computer networks on which patient confidential data is stored_
 
 <h4>b.</h4>
 <p>
@@ -66,8 +59,8 @@ TODO: Document identifying controls applied
   might be done through team meetings, staff briefings, awareness sessions and by IT
   user induction training.
 </p>
-TODO: Documents made public <br />
-TODO: Meetings documenting awareness.
+
+_OHC does not operate any computer networks on which patient confidential data is stored_
 
 <h3>Level 3.</h3>
 
@@ -76,19 +69,15 @@ TODO: Meetings documenting awareness.
   Compliance with the network security policy is monitored and where necessary, prompt
   remedial or improvement is action taken.
 </p>
-TODO: Reports on compliance
-TODO-MAYBE: New controls placed.
+
+_OHC does not operate any computer networks on which patient confidential data is stored_
 
 <h4>b.</h4>
 <p>
   Regular security risk reviews and assurance reports are provided to the SIRO (or
   equivalent).
 </p>
-TODO: Reports of network security review
+_OHC does not operate any computer networks on which patient confidential data is stored_
 
-<h4>c. (Year 2 only)</h4>
-<p>
-  Existing policy and associated procedures and controls must be regularly reviewed to
-  ensure that ICT networks continue to operate securely.
-</p>
-TODO: Review of policy/procedures
+
+<h4>c. (Not relevant to OHC)</h4>
