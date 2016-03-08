@@ -1,44 +1,50 @@
 ---
 layout: default
 ---
-<h1>Confidentiality</h1>
-<h2>11-210</h2>
-<p>
-  All new processes, services, information
-  systems, and other relevant information
-  assets are developed and implemented
-  in a secure and structured manner, and
-  comply with IG security accreditation,
-  information quality and confidentiality
-  and data protection requirements
-</p>
+# Confidentiality
 
-<h3>Level 1.</h3>
+## 11-210
+Organisations should ensure that when new processes, services, systems and other information
+assets are introduced that the implementation does not result in an adverse impact on
+information quality or a breach of information security, confidentiality or data protection
+requirements. For best effect, requirements to ensure information security, confidentiality
+and data protection and information quality should be identified and agreed prior to the
+design, development and/or implementation of a new process or system.
 
-<h4>a.</h4>
-<p>
-  Responsibility for documenting a procedure to ensure that new or proposed changes to
-  organisational processes or information assets are identified has been assigned to an
-  individual or group.
-</p>
+### Level 1.
+
+There is a documented procedure and structured approach for ensuring that new or proposed
+changes to organisational processes or information assets are identified and flagged with
+an appropriate information governance group or equivalent and that information security,
+confidentiality and data protection, and information quality requirements are defined at
+an early stage of the project cycle.
+
+#### a.
+
+Responsibility for documenting a procedure to ensure that new or proposed changes to
+organisational processes or information assets are identified has been assigned to an
+individual or group.
+
 <a href="/jobs/information.governance.lead.html">Job Description</a>
 
-<h4>b.</h4>
-<p>
-  There is a documented procedure for the identification and assessment of new
-  processes and information assets that might impact on information security,
-  confidentiality and data protection, and information quality that sets out a range
-  of responsibilities for those involved in making decisions about whether to permit
-  implementation of a new process or information asset.
-</p>
+#### b.
+
+There is a documented procedure for the identification and assessment of new processes and
+information assets that might impact on information security, confidentiality and data
+protection, and information quality that sets out a range of responsibilities for those
+involved in making decisions about whether to permit implementation of a new process or
+information asset. The type of roles that would typically be involved would be the senior
+people that lead on confidentiality (e.g. Caldicott Guardian), information risk (e.g. SIRO,
+IAO), information security officers, IG leads, etc.
+
 <a href="/jobs/information.governance.lead.html">Job Description</a>
 
-<h4>c.</h4>
-<p>
-  The procedure also sets out a structured approach for appropriate IG security
-  accreditation documentation, procedures and controls to ensure new information assets
-  are developed and introduced in a secure manner.
-</p>
+#### c.
+
+The procedure also sets out a structured approach for appropriate IG security accreditation
+documentation, procedures and controls to ensure new information assets are developed and
+introduced in a secure manner.
+
 <a href="/confidentiality.data.protection/11-210/1/project.management.html">
   Documented project management approach
 </a>
