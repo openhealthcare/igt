@@ -16,7 +16,7 @@ title: Open Health Care UK - Information Governance Toolkit
 * **Confidentiality and Data Protection Assurance**
 * [13-202](/confidentiality.data.protection/13-202/) : Level 3
 * [13-206](/confidentiality.data.protection/13-206/) : Level 3
-* [13-210](/confidentiality.data.protection/13-210/) : Level 1
+* [13-210](/confidentiality.data.protection/13-210/) : Level 3
 * [13-213](/confidentiality.data.protection/13-213/) : Level 2
 
 <br />
