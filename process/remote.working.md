@@ -3,11 +3,11 @@ layout: default
 ---
 # OHC Remote Working
 
-OHC is a small & dynamic company, with neither physical premises or physical assets.
+OHC is a small & dynamic company.
 
-As such, all working will be remote working.
+As such, all work will involve remote working.
 
-As all working is remote working, approval for remote working is implied by either:
+As much working is remote working, approval for remote working is implied by either:
 
 * OHC employing a person
 * OHC contracting a third party to conduct work on it's behalf.

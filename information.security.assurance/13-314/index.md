@@ -2,15 +2,8 @@
 layout: default
 ---
 <h1>Information Security Assurance</h1>
-
-<h2>
-  <a href="/information.security.assurance/11-314">11-314</a>
-</h2>
-<p>
-  Policy and procedures ensure that
-  mobile computing and teleworking are
-  secure
-</p>
+## 13-314
+## Attainment: Level 3 (Previous 1)
 
 <h3>Level 1.</h3>
 
@@ -48,21 +41,24 @@ layout: default
   All mobile or teleworkers are appropriately approved and authorised, and records are
   maintained of all authorisations
 </p>
-TODO: Records of approval
+
+<a href="/process/remote.working.html">
+  Remote working procedures
+</a>
+
 
 <h4>b.</h4>
 <p>
   Mobile or teleworkers are provided with procedures / guidelines.
 </p>
-TODO: Procedures fot staff.
+[Training records](/statements/training.records.html)
+
 
 <h4>c.</h4>
 <p>
-  Robust remote access solutions have been provided (For Local Authorities Only: -
-  This could be a copy of the Current PSN CoCo certificate).
+  Robust remote access solutions have been provided
 </p>
-TODO: Technical specification <br />
-TODO: Reports on number of users and equipment allocated
+_OHC does not provide remote access solutions to any services containing patient data, only services on the public internet._
 
 <h3>Level 3.</h3>
 
@@ -72,7 +68,7 @@ TODO: Reports on number of users and equipment allocated
   assurance that they have been understood and are being followed, therefore compliance
   spot checks and routine monitoring are conducted.
 </p>
-TODO: Report on compliance checks
+[Latest Information Governance Review meeting](/meetings/information.governance.review.html)
 
 <h4>b.</h4>
 <p>
@@ -82,12 +78,7 @@ TODO: Report on compliance checks
   or confidential information (including service user information) is encrypted, securely
   transported or stored in secure locations.
 </p>
-TODO: Audit report
+[Latest Information Governance Review meeting](/meetings/information.governance.review.html)
 
-<h4>c. (Year 2 only)</h4>
-<p>
-  The robustness of security and remote access controls may change over time. It is
-  therefore important that the remote working procedures and guidelines are regularly
-  reviewed to ensure they continue to be effective.
-</p>
-TODO: Report on the effectiveness.
+
+<h4>c. (Not relevant for OHC)</h4>

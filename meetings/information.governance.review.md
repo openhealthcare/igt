@@ -29,7 +29,7 @@ At this meeting, the following documents were approved and all staff confirmed t
 ### Spot Checks
 
 In the last six months we have comlpeted a spot check on all relevant members
-of staff to assess compliance with our IG Policy.
+of staff to assess compliance with all aspects of our IG and security Policy.
 
 This included both existing, and new members of staff.
 
@@ -49,3 +49,4 @@ This process involved reviewing the following items, which were found to remain 
 
 * Access control and management processes.
 * Access privileges for key assets
+* Compliance with remote working security policy
