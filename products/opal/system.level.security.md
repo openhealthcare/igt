@@ -22,6 +22,8 @@ Access to systems that will include patient data will be restricted to:
 * Staff of OHC (or their 3rd party contractors) in order to perform system administration.
 * Staff of OHC (or their 3rd party contractors) in order to perform incident investigations.
 
+Access will be enabled or disabled either by NHS Trusts or OHC acting on their behalf.
+
 ## Legal obligations
 
 The following acts of parliament apply to OPAL, and all legal obligations will be observed.
@@ -50,3 +52,11 @@ The same Trust administrators will suspend the accounts of those users who are n
 Once every six months, a review will be conducted of all active accounts to ascertain whether access controls are being governed appropriately.
 
 This review will be conducted by the IGL.
+
+## Passwords
+
+All access requires a password.
+
+We require all passwords to be at least 6 characters, and not in a list of known banned passwords.
+
+Failed access attempts are logged.

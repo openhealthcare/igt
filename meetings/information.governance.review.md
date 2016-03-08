@@ -34,7 +34,6 @@ of staff to assess compliance with our IG Policy.
 This included both existing, and new members of staff.
 
 Our spot check uncovered no breaches of our policy.
-
 (Note, all relevant staff members report directly to the OHC IGL.)
 
 
@@ -43,3 +42,10 @@ Our spot check uncovered no breaches of our policy.
 Having reviewed our current training, we feel it is appropriate for our current activities.
 
 All staff with access to personal data have successfully completed our training programme.
+
+## Specific reviews
+
+This process involved reviewing the following items, which were found to remain satisfactory.
+
+* Access control and management processes.
+* Access privileges for key assets
