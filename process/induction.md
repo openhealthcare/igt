@@ -10,3 +10,4 @@ New staff should be made aware of the following documents and their correspondin
 * [Confidentiality Audit Procedure](/process/confidentiality.audit.html)
 * [Transfer of Personal Information Procedure](/process/transfer.of.sensitive.information.html)
 * [Reporting Unauthorised Access to Physical Premises](/process/reporting.unauthorised.access.html)
+* [Security measures](/information.security.assurance/13-317/)

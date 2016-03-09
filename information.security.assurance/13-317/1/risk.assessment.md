@@ -3,6 +3,6 @@ layout: default
 ---
 # Physical Security Risk assessment
 
-OHC has no premises.
+The premises at which OHC conducts business are accessible only by persons with keys.
 
-There is no risk of unauthorised access.
+There is no information stored on these premises whatsoever.
