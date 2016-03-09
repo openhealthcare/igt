@@ -28,7 +28,7 @@ title: Open Health Care UK - Information Governance Toolkit
 * [13-316](/information.security.assurance/13-316/) : Level 3
 * [13-317](/information.security.assurance/13-317/) : Level 3
 * [13-319](/information.security.assurance/13-319/) : Level 3
-* [13-320](/information.security.assurance/13-320/) : Level 1
+* [13-320](/information.security.assurance/13-320/) : Level 3
 * [13-323](/information.security.assurance/13-323/) : Level 1
 
 <br />
