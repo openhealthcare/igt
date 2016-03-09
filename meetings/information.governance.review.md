@@ -25,6 +25,7 @@ At this meeting, the following documents were approved and all staff confirmed t
 * [Network Security Policy](/process/network.security.policy.html)
 * [Remote Working](/process/remote.working.html)
 * [Data Protection Purposes plan](/process/data.protection.purposes.plan.html)
+* [Business Continuity Plan](/information.security.assurance/13-319/impact.analysis.html)
 
 ### Spot Checks
 
@@ -52,3 +53,4 @@ This process involved reviewing the following items, which were found to remain 
 * Compliance with remote working security policy
 * Information Asset Register
 * Physical Security
+* Business continuit plan table top exercise
