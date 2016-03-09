@@ -50,3 +50,4 @@ This process involved reviewing the following items, which were found to remain 
 * Access control and management processes.
 * Access privileges for key assets
 * Compliance with remote working security policy
+* Information Asset Register

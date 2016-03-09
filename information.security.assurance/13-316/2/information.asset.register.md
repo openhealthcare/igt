@@ -5,15 +5,15 @@ layout: default
 
 ## Information
 
-### OPAL
+### elCID @ UCLH
 
 * Information: Ward records
 * Method of storage: Electronic
-* Data Controller: OHC
+* Data Controller: UCLH
 
 ## Software
 
-### OPAL
+### elCID @ UCLH
 
 * Description: Patient list software
 * Source code: https://github.com/openhealthcare/opal
