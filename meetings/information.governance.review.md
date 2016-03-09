@@ -55,3 +55,5 @@ This process involved reviewing the following items, which were found to remain 
 * Physical Security
 * Business continuit plan table top exercise
 * Information incident reporting
+* Additional unkonwn information assets
+* Compliance to mandatory security requriements
